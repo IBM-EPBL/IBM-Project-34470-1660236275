@@ -1,3 +1,0 @@
-# Customer Care Registry
-
-Templates
